@@ -1,3 +1,3 @@
-## Notes backend deployed on Render
+## Application deployed on Render
 
 https://phones-backend.onrender.com
